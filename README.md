@@ -96,7 +96,7 @@ La interacción es **por consola**: un menú permite buscar y registrar libros p
 ## 📁 **Acceso al Proyecto**
 
 1. **Clonar el Repositorio**:
-   - `git clone https://github.com/JhairRoussell2/literatura.git`
+   - `git clone https://github.com/JhairRoussell2/Catalogo-de-libros-LITERATURA.git`
 
 2. **Abrir en IntelliJ IDEA**:
    - Abre la carpeta del proyecto.
