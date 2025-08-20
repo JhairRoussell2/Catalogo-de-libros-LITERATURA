@@ -53,28 +53,31 @@ La interacción es **por consola**: un menú permite buscar y registrar libros p
 1. El usuario ejecuta la app y ve el menú:
 
 <p align="center">
-  <img src="./paraREADME/Ejm1.jpg" alt="Menú de LiterAlura">
+  <img src="./paraREADME/Ejem1.jpg" alt="Menú de LiterAlura">
 </p>
 
 2. Elige **1) buscar libro por título**, ingresa por ejemplo **“quijote”**.  
    El primer resultado se convierte y **se guarda** en la base.
 
 <p align="center">
-  <img src="./paraREADME/Ejm2.jpg" alt="Búsqueda y guardado">
+  <img src="./paraREADME/Ejem2.jpg" alt="Búsqueda y guardado">
 </p>
 
 3. Con **2) listar libros registrados**, se muestran los libros guardados:
 
 <p align="center">
-  <img src="./paraREADME/Ejm3.jpg" alt="Listado de libros">
+  <img src="./paraREADME/Ejem3.jpg" alt="Listado de libros">
 </p>
 
 4. Con **4) autores vivos en un determinado año**, ingresa por ejemplo **1550**:
 
 <p align="center">
-  <img src="./paraREADME/Ejm4.jpg" alt="Autores vivos en año">
+  <img src="./paraREADME/Ejem4.jpg" alt="Autores vivos en año">
 </p>
 5. Y de la misma forma todas las funcionalidades están activas, puedes probarlas por tu cuneta!
+<p align="center">
+  <img src="./paraREADME/Ejem5.jpg" alt="Sí">
+</p>
 ---
 
 ## 💻 **Tecnologías Utilizadas**
